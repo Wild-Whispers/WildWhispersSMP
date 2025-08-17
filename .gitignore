@@ -1,0 +1,127 @@
+# Miscellaneous
+0-OLD_WORLDS/*
+bundler/*
+cache/*
+config/paper-global.yml
+debug/*
+FancyAnalytics/*
+libraries/*
+logs/*
+.console_history
+banned-ips.json
+banned-players.json
+env.bat
+eula.txt
+ops.json
+server.properties
+usercache.json
+whitelist.json
+
+# Worlds
+MAIN_WORLD/*
+MAIN_WORLD_the_end/*
+MAIN_WORLD_nether/*
+shop/*
+SMP1/*
+SMP1_the_end/*
+SMP1_nether/*
+SMP2/*
+SMP2_the_end/*
+SMP2_nether/*
+
+# General plugin folders/files
+plugins/.paper-remapped/*
+plugins/bStats/*
+plugins/spark/*
+plugins/PluginMetrics/*
+plugins/update/*
+
+# BetterRTP
+plugins/BetterRTP/lang/*
+plugins/BetterRTP/data/*
+plugins/BetterRTP/economy.yml
+plugins/BetterRTP/log.txt
+
+# ChestShop
+plugins/ChestShop/languages/*
+plugins/ChestShop/items.db
+plugins/ChestShop/users.db
+plugins/ChestShop/version
+
+# Core Protect
+plugins/CoreProtect/*
+
+# EssentialsX
+plugins/Essentials/messages/*
+plugins/Essentials/userdata/*
+plugins/Essentials/userdata-npc-backup*
+plugins/Essentials/warps/*
+plugins/Essentials/motd.txt
+plugins/Essentials/items.json
+plugins/Essentials/kits.yml
+plugins/Essentials/spawn.yml
+plugins/Essentials/tpr.yml
+plugins/Essentials/upgrades-done.yml
+plugins/Essentials/usermap.bin
+plugins/Essentials/uuids.bin
+plugins/Essentials/uuids10794964979514722645.tmp.bin
+plugins/Essentials/worth.yml
+
+# EssentialsX Discord
+plugins/EssentialsDiscord/*
+
+# FancyHolograms
+plugins/FancyHolograms/logs/*
+
+# FastAsyncWorldEdit
+plugins/FastAsyncWorldEdit/clipboard/*
+plugins/FastAsyncWorldEdit/history/*
+plugins/FastAsyncWorldEdit/lang/*
+plugins/FastAsyncWorldEdit/sessions/*
+
+# Floodgate
+plugins/floodgate/*
+
+# Goodnight
+plugins/Goodnight/*
+
+# GriefPrevention/GriefPreventionData
+plugins/GriefPreventionData/Logs/*
+plugins/GriefPreventionData/playerData/*
+plugins/GriefPreventionData/_schemaVersion
+
+# LuckPerms
+plugins/LuckPerms/*
+
+# MoorlandSanctuary
+plugins/MoorlandSanctuary/*
+
+# Multiverse-Core
+plugins/Multiverse-Core/*
+
+# QLottery
+plugins/Qlottery/*
+
+# ServerSelectorX
+# Include everything
+
+# TreeChopper
+plugins/TreeChopper/PlacedBlocks.yml
+
+# TreeFella (replaced, so exlude the entire thing)
+plugins/TreeFella/*
+
+# Vault
+/plugins/Vault/*
+
+# ViaBackwards
+# Include everything
+
+# ViaVersion
+# Include everything
+
+# WildWhispersPetControl
+plugins/WildWhispersPetControl/tameables.yml
+
+# WorldGuard
+/plugins/WorldGuard/*
