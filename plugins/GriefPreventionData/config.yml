@@ -2,14 +2,14 @@
 
 GriefPrevention:
   SeaLevelOverrides:
-    SMP1: -1
-    SMP1_nether: -1
-    SMP1_the_end: -1
+    SMP: -1
+    SMP_nether: -1
+    SMP_the_end: -1
   Claims:
     Mode:
-      SMP1: Survival
-      SMP1_nether: Disabled
-      SMP1_the_end: Disabled
+      SMP_nether: Disabled
+      SMP_the_end: Disabled
+      SMP: Survival
     PreventGlobalMonsterEggs: true
     PreventTheft: true
     ProtectCreatures: true
@@ -72,9 +72,9 @@ GriefPrevention:
     Logout Message Delay In Seconds: 0
   PvP:
     RulesEnabledInWorld:
-      SMP1: false
-      SMP1_nether: false
-      SMP1_the_end: false
+      SMP: true
+      SMP_nether: true
+      SMP_the_end: true
     ProtectFreshSpawns: true
     PunishLogout: true
     CombatTimeoutSeconds: 15
